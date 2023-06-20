@@ -291,7 +291,7 @@ main {
 
 #skill {
   padding: 70px 30px;
-  height: 100vh;
+  height: 70vh;
 }
 .skill-holder {
   display: flex;
@@ -375,6 +375,12 @@ main {
 }
 
 /* *******Projects Section END********* */
+/* **********RESUME SECTION START***************** */
+.resume-and-certificate {
+  width: 100%;
+  height: 70vh;
+}
+/* **********RESUME SECTION END***************** */
 
 /* *******Services Section START********* */
 #services {
